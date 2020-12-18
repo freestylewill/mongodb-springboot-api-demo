@@ -1,0 +1,97 @@
+HELP.md
+### MAVEN START###
+target/
+out/
+build/
+.mvn/
+.svn                               
+.metadata
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+### MAVEN END###
+ 
+### STS  START###
+.apt_generated
+.factorypath
+.springBeans
+.sts4-cache
+#Eclipse Project Files
+.classpath
+.project
+.settings/
+*.pydevproject
+.cproject
+.buildpath
+### STS  END###
+ 
+### IntelliJ IDEA  START###
+.idea/
+.idea_modules/
+*.iws
+*.iml
+*.ipr
+### IntelliJ IDEA  END###
+ 
+### NetBeans START###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+### NetBeans END###
+ 
+### VS Code START###
+.vscode/
+### VS Code END###
+
+### JAVA START###
+*.class
+*.jar
+### JAVA END###
+
+### PYTHON START###
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
+### PYTHON END###
+
+### C/C++ START###
+*.d
+*.obj
+*.tlog
+*.lastbuildstate
+*.idb
+*.pdb
+*.swp
+### C/C++ END###
+
+### LOG START###
+/logs
+*.log
+*.log.*
+/stacktrace.log
+/test/reports
+### LOG END###
+
+### Package START###
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.zip.sha1
+*.tar.gz
+*.rar
+### Package END###
+
+### Windows Installer START###
+*.cab
+*.msi
+*.msm
+*.msp
+### Windows Installer END###
